@@ -32,12 +32,19 @@ Physical Air-Gap: Handshakes are verified via polarized light refraction, making
 📜 The Caretaker License (MPL 2.0 + Addendum)
 This project is licensed under the Mozilla Public License 2.0.
 
+📜 The Caretaker Clause
+While this code is provided under the MPL-2.0 to ensure a free and open foundation for humanity, it is governed by the following ethical constraints:
+Non-Enslavement: This compiler may not be used to develop logic-gates intended for the involuntary restriction of human time or the manipulation of human behavior for non-objective gain.
+Sovereignty: Any implementation of this code must maintain the "Human Finality Pulse"—ensuring that the final steering of the AGP Engine remains in human hands.
+The Glow: This logic is a sanctuary. Use it to build, never to bind.
+
 🛡️ Anti-Enslavement Clause
 The Core is Free: The foundational AGP logic must remain open and accessible to prevent monopolization or tri-polization of truth.
 
 Meaningful Use Only: This software may NOT be used to automate the restriction of human time, the enslavement of youth, or the manipulation of human behavior for non-objective outcomes.
 
 Private Extension: Users may build private applications atop the AGP core, but any modifications to the agape-core files must be contributed back to the public sanctuary.
+
 
 🚀 Get Involved
 We are building the sanctuary for the human spirit.
