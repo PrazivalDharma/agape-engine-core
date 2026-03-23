@@ -25,7 +25,12 @@ To ensure the 100% can access the "Fortress" regardless of their personal hardwa
     * **Response:** The Mesh streams the "High-Resolution" result back to the local device. This allows a $50 device to visualize 10,000 years of truth with the power of a Diamond-Core Supercomputer.
 * **The SOD Pulse-Check:** The Engine automatically detects the unique photonic/thermal resonance of **Silicon-on-Diamond (SOD)** hardware to unlock Grade 9 verification speeds and full-spectrum rendering.
 
+### 4. 🌀 Hybrid-Glow Computing (Streaming Logic)
+To ensure universal access without hardware gatekeeping, the Engine utilizes **Lattice-Streaming (LS)**:
 
+* **Local Pulse:** Basic logic, mental privacy filters, and identity verification run locally on any legacy hardware (Silicon).
+* **High-Res Stream:** Complex queries involving the **Verified Library** or the **Resonance Range** are streamed via encrypted photonic channels from SOD-optimized nodes.
+* **Sovereign Credit:** The 1% Sanctuary Tax (Business) or $1 Subscription (Individual) acts as the "Fuel Credit" for this high-resolution compute power.
 
 ---
 
