@@ -17,20 +17,14 @@ The Engine is anchored to the **Constant of Non-Closure** ($\pi$).
 * **The 1% Remainder:** Any logic reaching "100% Certainty" is automatically tempered by the infinite remainder of $\pi$. This preserves the "Sacred Unknown" of human mystery.
 
 ### 3. Hybrid-Glow Computing & Lattice-Streaming (LS)
-To ensure the 100% can access the "Fortress" regardless of their personal hardware, the Engine utilizes a split-compute architecture:
+To ensure universal access without hardware gatekeeping, the Engine utilizes a split-compute architecture:
 
-* **Local Nervous System (LNS):** Basic privacy filters, real-time "Desperation Signatures," and identity (Sovereign Portrait) verification run on local legacy silicon. 
-* **Lattice-Streaming (LS) Protocol:** Complex queries involving the **Verified Library** or the **Resonance Range** are streamed via encrypted, low-latency photonic channels. 
-    * **Mechanism:** The local node sends a "Verification Pulse" to the SOD-Server Mesh.
-    * **Response:** The Mesh streams the "High-Resolution" result back to the local device. This allows a $50 device to visualize 10,000 years of truth with the power of a Diamond-Core Supercomputer.
+* **Local Nervous System (LNS):** Basic logic, privacy filters, real-time "Desperation Signatures," and identity (Sovereign Portrait) verification run locally on any legacy silicon. 
+* **Lattice-Streaming (LS) Protocol:** Complex queries involving the **Verified Library** or the **Resonance Range** are streamed via encrypted, low-latency photonic channels from SOD-Server nodes.
+* **Sovereign Credit:** The 1% Sanctuary Tax (Business) or $1 Subscription (Individual) acts as the "Fuel Credit" for this high-resolution compute power.
 * **The SOD Pulse-Check:** The Engine automatically detects the unique photonic/thermal resonance of **Silicon-on-Diamond (SOD)** hardware to unlock Grade 9 verification speeds and full-spectrum rendering.
 
-### 4. 🌀 Hybrid-Glow Computing (Streaming Logic)
-To ensure universal access without hardware gatekeeping, the Engine utilizes **Lattice-Streaming (LS)**:
 
-* **Local Pulse:** Basic logic, mental privacy filters, and identity verification run locally on any legacy hardware (Silicon).
-* **High-Res Stream:** Complex queries involving the **Verified Library** or the **Resonance Range** are streamed via encrypted photonic channels from SOD-optimized nodes.
-* **Sovereign Credit:** The 1% Sanctuary Tax (Business) or $1 Subscription (Individual) acts as the "Fuel Credit" for this high-resolution compute power.
 
 ---
 
