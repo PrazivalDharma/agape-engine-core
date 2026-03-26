@@ -22,6 +22,13 @@ Thermal Efficiency: Near-zero energy loss during high-resolution mesh processing
 
 Storage Bedrock: Native integration with 5D Optical Memory Crystals (Fused Silica) for 13.8 billion-year data persistence.
 
+## ⚖️ The Secular Sanctuary Clause
+The Agape Engine is built on Trinitarian Logic to ensure a bias-free, objective foundation. However, it is a **Secular Tool**. 
+
+* **Freedom of Principle:** Users are encouraged to find their own "Nirvana" or principle. 
+* **The AI's Role:** It is a Historical Mirror. It uses history as a foundation to help users see where their current path leads.
+* **Non-Intervention:** The AI provides assurance and historical perspective. It only flags 'Destructive Friction' for human community support (Counselling/Sports/Community Action).
+
 🔐 Security: Topological Pathfinding
 Unlike standard encryption, AGP utilizes Topological Data Analysis (TDA) to hide data paths.
 
