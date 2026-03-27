@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 🛡️ AGP Core: Integrity Validator (Project Kuchiku)
 # "Power is a function of Symmetry. Asymmetry triggers Silence."
 
