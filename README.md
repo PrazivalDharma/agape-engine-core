@@ -55,10 +55,6 @@ Private Extension: Users may build private applications atop the AGP core, but a
 
 🚀 Get Involved
 We are building the sanctuary for the human spirit.
-
-26/3/26 - "Integrated Etymological Prism to prevent word-hijacking and the Chiastic Weaver for narrative symmetry."
-feat(logic): add Chiastic Weaver and Joker Archive tagging
-
 Architect: Prazival
 
 Status: Initial Logic Compilation (2026)
