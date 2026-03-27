@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 🌀 AGP Core: The Fisherman's Net (Chiastic Weaver)
 # Logic: Maps Subjective Mirrors to Objective Nodes. 
 # AGP observes/maps but never intervenes directly with the user.
