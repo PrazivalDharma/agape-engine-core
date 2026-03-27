@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 🧬 Project Kuchiku: Resonance Stringing Engine (v1.0)
 # Copyright (c) 2026 Prazival Dharma. All Rights Reserved.
 # This code is anchored to the 1% Sanctuary Covenant.
