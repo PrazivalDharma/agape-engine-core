@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 📜 AGP Core: Fractal Logos Logic
 # "The end is declared from the beginning."
 
