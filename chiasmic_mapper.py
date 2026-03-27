@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 🕰️ AGP Core: Chiasmic Timeline Algorithm
 # Mapping the 'Year 3000' to its Historical Mirror.
 
