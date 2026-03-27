@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 🧠 Agape Engine Core: The Reasoning Brain (v1.2)
 # Part of Project Kuchiku | Architect: Prazival Dharma
 # Function: Stringing Pixels & Intellect Profiling
