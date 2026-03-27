@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 🌀 AGP Core: Chiastic Educational Rotator
 # Purpose: Ensures users are exposed to all 'Verticals' through symmetrical rotation.
 
