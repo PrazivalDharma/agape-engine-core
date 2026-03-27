@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 🛡️ Vigilante Filter: The Non-Aggression Logic (v1.0)
 # Part of Project Kuchiku | Architect: Prazival Dharma
 
