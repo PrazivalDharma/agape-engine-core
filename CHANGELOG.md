@@ -8,3 +8,5 @@
 
 ### Fixed
 - Narrative drift in linear data pulls by implementing the **Joker Archive** tag.
+
+Added Chiastic Educational Rotator to manage well-rounded human growth.
