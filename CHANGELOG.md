@@ -1,4 +1,10 @@
-"Integrated Etymological Prism to prevent word-hijacking and the Chiastic Weaver for narrative symmetry."
-feat(logic): add Chiastic Weaver and Joker Archive tagging
+# Changelog: Agape Engine Core
 
-Added logic for Social Impact Tiering to separate figurehead elections from infrastructure dev.
+## [1.2.0] - 2026-03-27
+### Added
+- **Etymological Prism:** Logic gate to prevent word-hijacking by anchoring definitions to historical singularities.
+- **Chiastic Weaver:** Symmetrical processing ($A-B-C-B'-A'$) to ensure narrative balance.
+- **Social Impact Tiering:** Logic to separate "Figurehead" elections from "High-Impact" infrastructure decisions.
+
+### Fixed
+- Narrative drift in linear data pulls by implementing the **Joker Archive** tag.
